@@ -1,0 +1,48 @@
+Regras para variáveis PHP:
+
+-Uma variável começa com o sinal $, seguido pelo nome da variável
+-O nome de uma variável deve começar com uma letra ou o caractere de sublinhado
+-Um nome de variável não pode começar com um número
+-Um nome de variável só pode conter caracteres alfanuméricos e sublinhados (A-z, 0-9 e _)
+-Variable names are case-sensitive ($age and $AGE are two different variables)
+
+$primeiroNome = "Cristiano"
+$sobrenome =  "Morais"
+
+echo "Meu primeiro nome é $primeiroNome meu sobrenome é $sobrenome"
+
+$nota1 = 8;
+$nota2 = 9;
+$nota3 = 6;
+$nota4 = 7;
+
+$media = ($nota1 + $nota2 + $nota3 + $nota4) / 4
+
+if ($media >= 5){
+
+echo "Aprovado"
+} else {
+    echo "Reprovado"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php 
+$nota1 = 5;
+$nota2 = 3;
+$nota3 = 2;
+$nota4 = 5;
+$media = (nota1 + nota2 + nota3 + nota4) /4
+?>

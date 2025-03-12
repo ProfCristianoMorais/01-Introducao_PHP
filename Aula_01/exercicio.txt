@@ -1,0 +1,10 @@
+Exercicio PHP com estrutura condicional
+
+* O sistema vai receber 4 notas de um aluno
+* O sistema vai Obter a média das notas
+* O sistema vai mostrar para o usuário se o aluno está 
+"Aprovado" ou "Reprovado"
+
+
+média >= 5 = "Aprovado"
+OBS: Utilizar HTML e PHP
